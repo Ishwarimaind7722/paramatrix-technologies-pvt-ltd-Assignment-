@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+  }
+  .sender,
+  .receiver,
+  .subject,
+  .content,
+  .footer {
+    margin-bottom: 20px;
+  }
+  .sender {
+    text-align: right;
+  }
+  .subject {
+    text-align: center;
+    font-weight: bold;
+  }
+  .content {
+    text-align: justify;
+  }
